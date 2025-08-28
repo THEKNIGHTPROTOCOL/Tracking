@@ -1,6 +1,6 @@
 streamlit
 pandas
 numpy
-folium
-streamlit-folium
-scikit-learn
+pydeck
+matplotlib
+seaborn

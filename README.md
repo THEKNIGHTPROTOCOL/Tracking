@@ -28,8 +28,7 @@ This project reflects that principle — small steps that build momentum, clarit
 
 
 
-🌟 Live Demo
-Check out the live version here 
+🌟 Live Demo:
 https://tracking-gmenopbuz9hmhl7g9awpa2.streamlit.app/
 
 ---

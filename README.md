@@ -25,6 +25,48 @@ This project reflects that principle — small steps that build momentum, clarit
 
 ---
 
+pip install -r requirements.txt
+3️⃣ Run the app
+bash
+Copy code
+streamlit run app.py
+🌟 Live Demo
+Check out the live version here:
+👉 Tracking App on Streamlit
+
+🤝 Contributing
+Contributions, ideas, and feedback are always welcome!
+If you have suggestions to make this project more powerful, feel free to open an issue or submit a pull request.
+
+📜 License
+This project is licensed under the MIT License – free to use, modify, and share.
+
+🌍 Final Note
+This is more than just a project — it’s a reminder:
+
+Challenges are stepping stones.
+
+Consistency creates momentum.
+
+And every line of code can make a difference.
+
+🚀 Stay motivated. Keep building. Become unstoppable.
+
+yaml
+Copy code
+
+---
+
+Do you also want me to write a **short GitHub repo tagline + description** (like 1–2 lines that appear right under your repo name) so your repo instantly looks professional?
+
+
+
+
+
+
+
+
+
 ## 🚀 Getting Started  
 
 ### 1️⃣ Clone the repository  

@@ -50,14 +50,7 @@ Consistency creates momentum.
 
 And every line of code can make a difference.
 
-🚀 Stay motivated. Keep building. Become unstoppable.
-
-yaml
-Copy code
-
----
-
-Do you also want me to write a **short GitHub repo tagline + description** (like 1–2 lines that appear right under your repo name) so your repo instantly looks professional?
+🚀 Stay motivated. Keep building. 
 
 
 

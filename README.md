@@ -30,9 +30,12 @@ pip install -r requirements.txt
 bash
 Copy code
 streamlit run app.py
+
+---
+
 🌟 Live Demo
-Check out the live version here:
-👉 Tracking App on Streamlit
+Check out the live version here 
+https://tracking-gmenopbuz9hmhl7g9awpa2.streamlit.app/
 
 🤝 Contributing
 Contributions, ideas, and feedback are always welcome!
